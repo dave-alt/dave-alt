@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dave-alt
-- 👀 I’m interested in bringing stuffs to live in a display
+- 👀 I’m interested in bringing stuffs to life in a display
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on UX and UI
 - 📫 reach me @jsamdavidpaul
